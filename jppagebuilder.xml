@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+ <update>
+  <name>JP PageBuilder</name>
+  <description>Versions-Info automatisch veröffentlicht: Der Hinweis „Neue Version …“ liest jetzt eine öffentliche Datei auf GitHub (joomlaplates-de/pagebuilder-updates). Sie wird bei jedem Release automatisch aktualisiert, ein Hochladen von Hand ist nicht mehr nötig.</description>
+  <element>pkg_jppagebuilder</element>
+  <type>package</type>
+  <client>site</client>
+  <version>0.23.23</version>
+  <infourl title="JP PageBuilder">https://www.joomlaplates.de</infourl>
+  <maintainer>Joomlaplates</maintainer>
+  <maintainerurl>https://www.joomlaplates.de</maintainerurl>
+  <targetplatform name="joomla" version="(5|6)\..*"/>
+  <php_minimum>8.1</php_minimum>
+ </update>
+</updates>
