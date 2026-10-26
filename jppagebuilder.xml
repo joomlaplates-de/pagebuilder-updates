@@ -2,12 +2,13 @@
 <updates>
  <update>
   <name>JP PageBuilder</name>
-  <description>Cookie-Banner und Popups blockieren den Builder nicht mehr: In der Builder-Vorschau werden Cookie-Banner und andere Overlays jedes Herstellers automatisch ausgeblendet. Auf der Website bleiben sie unverändert.</description>
+  <description>JP PageBuilder für Joomla und Astroid: visuelle Bearbeitung, Vorlagen und gemeinsame Entwürfe.</description>
   <element>pkg_jppagebuilder</element>
   <type>package</type>
   <client>site</client>
   <version>0.23.24</version>
   <infourl title="JP PageBuilder">https://www.joomlaplates.de</infourl>
+  <changelogurl>https://github.com/joomlaplates-de/pagebuilder-updates/blob/main/CHANGELOG.md</changelogurl>
   <maintainer>Joomlaplates</maintainer>
   <maintainerurl>https://www.joomlaplates.de</maintainerurl>
   <targetplatform name="joomla" version="(5|6)\..*"/>
